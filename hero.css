@@ -1,0 +1,16 @@
+body{
+  text-align: center;
+  font-family: 'Amatic SC', cursive;
+  font-weight: 200;
+  font-size: 17.5px;
+  background-color: #fefcfb;
+}
+h1{
+  width: 400px;
+  text-align: center;
+  border: 5px solid #b6fdff;
+  padding: 10px;
+  border-radius: 100px;
+  color: #34d5eb;
+  background-color: #f5ddc4 ;
+}
