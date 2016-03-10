@@ -3,14 +3,44 @@ body{
   font-family: 'Amatic SC', cursive;
   font-weight: 200;
   font-size: 17.5px;
-  background-color: #fefcfb;
+  background-color: #34d5eb;
+;
+}
+#ncard{
+  border: solid 10px #deffff;
+  border-radius: 85px;
+  padding: 10px;
+  background-color: #fcedde;
 }
 h1{
   width: 400px;
   text-align: center;
-  border: 5px solid #b6fdff;
+  border: 5px solid #f8d3ad;
   padding: 10px;
   border-radius: 100px;
   color: #34d5eb;
-  background-color: #f5ddc4 ;
+  background-color: #deffff ;
+}
+#nautie{
+  border-radius: 20px;
+}
+#ndesc{
+  width: 80%;
+  text-align: center;
+  border: 5px solid #f8d3ad;
+  padding: 20px;
+  border-radius: 100px;
+  color: #34d5eb;
+  background-color: #deffff ;
+  font-family: 'Coming Soon', cursive;
+}
+#npower{
+  width: 70%;
+  text-align: center;
+  border: 5px solid #f8d3ad;
+  padding: 20px;
+  border-radius: 100px;
+  color: #34d5eb;
+  background-color: #deffff ;
+  font-family: 'Coming Soon', cursive;
 }
