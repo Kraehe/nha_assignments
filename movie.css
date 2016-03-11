@@ -1,0 +1,34 @@
+      body{
+        font-family: Helvetica Neue;
+        font-weight: 200;
+        font-size: 16.5px;
+        color: #454b4f;
+      }
+      b:hover, h2 {
+        color: #ff5d5d;
+      }
+      #beep{
+        font-size: 10px;
+        color: #ff5d5d;
+      }
+      .text{
+       border: solid #ff5d5d;
+       border-radius: 45px;
+       padding: 5px;
+        background-color: #fefefe;
+      }
+      button{
+        font-size: 17.5px;
+        color: black;
+        border-radius:4px;
+      }
+      a:link {
+        color: #454b4f;
+      }
+
+      a:visited {
+        color: #454b4f;
+      }
+      a:hover {
+        color: #ff5d5d;
+      }
