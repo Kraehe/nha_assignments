@@ -1,0 +1,23 @@
+body{
+  background-color: #f5f0f0;
+  padding: 30%;
+
+}
+.red{
+  border-radius:30px;
+  background-color: #DE3434;
+  font-family: 'Cabin', sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  color: #f6f6f6;
+  width: 400px;
+  height:20%;
+  letter-spacing: 2px;
+}
+.white{
+  font-family: 'Coming Soon', cursive;
+  font-size: 55px;
+  background-color: #ffffff;
+  height: 40%;
+  color: #443a3e;
+}
