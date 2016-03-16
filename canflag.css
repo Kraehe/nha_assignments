@@ -1,0 +1,22 @@
+body {
+  background-color: black;
+  margin:auto;
+  padding:15%;
+}
+
+img {
+  width: 50%;
+  padding-left: 25%;
+  padding-right: 25%;
+}
+.white {
+  background-color: white;
+  width: 60%;
+  height: 40%;
+  margin-right: auto;
+  margin-left: auto;
+}
+.red {
+  background-color: red;
+  width: 50%
+}
