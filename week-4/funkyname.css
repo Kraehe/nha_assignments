@@ -73,14 +73,21 @@ body {
   font-size: 100px;
   border: 5px dashed black;
   width: 67px;
+  background-color: #ffffff;
 }
 .o2 {
   display: inline-block;
   color: #3a3a3a;
+  font-family: Verdana;
+  font-size: 60px;
 }
 .d {
   display: inline-block;
   color: #565656;
+  font-family: Courier New;
+  border: dotted 1px #dedede;
+  font-size: 70px;
+  padding-right: 3px;
 }
 .r2 {
   display: inline-block;
