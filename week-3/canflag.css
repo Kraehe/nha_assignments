@@ -1,0 +1,25 @@
+body {
+  background-color: ivory;
+  margin:auto;
+  padding:15%;
+}
+
+img {
+  width: 50%;
+  padding-top: 25%;
+  padding-bottom: 25%;
+  padding-left: 25%;
+  padding-right: 25%;
+}
+.red {
+  background-color: red;
+  width: 300px;
+  height: 300px;
+  padding-left: 15%;
+  padding-right: 15%;
+}
+.white {
+  background-color: white;
+  width: 300px;
+  height:300px
+}
