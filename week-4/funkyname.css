@@ -1,0 +1,102 @@
+body {
+  background-color: #fdf7f4;
+}
+.empty {
+  /* just an empty div. i had an 'aha!' moment, and then i thought of this!
+  i don't know if it counts as cheating. oh well.
+  it works, so i don't think there's an issue. */
+}
+.g1 {
+  font-size: 100px;
+  border: 1px dotted #ff7070 ;
+  background-color: #ffe5e5;
+  padding-left: 10px;
+  padding-right: 10px;
+  color: #ff0000;
+  font-family: Times New Roman;
+}
+.i1 {
+  font-size: 60px;
+  color: #ffa700
+;
+  padding: 10px;
+  padding-right:20px;
+  font-style: italic;
+  font-family: Papyrus;
+}
+.o1 {
+  color: #fff866;
+  font-size: 55px;
+  font-family: Arial;
+  padding: 10px;
+  border: 5px dashed #fff400;
+  background-color: #fffccc;
+  width: 30px;
+  height: 70px;
+  display: inline-block;
+}
+.v {
+ color: #33b300;
+ font-size: 80px;
+  font-family: Poiret One;
+  padding: 10px;
+}
+.a1 {
+  color: #00dfff;
+  font-size: 105px;
+}
+.n1 {
+  color: #0078ff;
+  background-color: #faf9ff;
+  font-size: 80px;
+  font-family: Comic Sans MS;
+  padding: 10px;
+  border: 3px inset #2f00ff;
+  height: 130px;
+  display: inline-block;
+}
+.n2 {
+  color: #7c00ff;
+  border: double 4px #7e1bff;
+  background-color: #c79bff;
+  font-size: 80px;
+  font-family: Helvetica Neue;
+  font-weight: 100;
+}
+.a2 {
+  color: #ff00db;
+  font-size: 60px;
+  font-family: Zapfino;
+}
+.r1 {
+  display: inline-block;
+  font-size: 100px;
+  border: 5px dashed black;
+  width: 67px;
+}
+.o2 {
+  display: inline-block;
+  color: #3a3a3a;
+}
+.d {
+  display: inline-block;
+  color: #565656;
+}
+.r2 {
+  display: inline-block;
+}
+.i2 {
+  display: inline-block;
+}
+.g2 {
+  display: inline-block;
+}
+.u {
+  display: inline-block;
+}
+.e {
+  display: inline-block;
+}
+.z {
+  display: inline-block;
+}
