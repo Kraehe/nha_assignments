@@ -1,0 +1,51 @@
+  html { 
+    background: url(http://mynoise.net/Data/DUNGEON/fb.jpg) no-repeat center center fixed;  
+  }
+  .undyne {
+    width: 173px;
+    height: 239px;
+    background-image: url(undyne_armor_battle.gif);
+    position: absolute;
+    top: 40%;
+    left: 40%;
+  }
+  .undyne:hover {
+    width: 238px;
+    height: 238px;
+    background-image: url(undynetheundying.gif);
+    position: absolute;
+    top: 40%;
+    left: 40%;
+  }
+  .undyne:active {
+    width: 307px;
+    height: 235px;
+    background-image: url(doggo_pet.gif);
+    position: absolute;
+    top: 40%;
+    left: 37%;
+  }
+  .monster-kid {
+    width: 120px;
+    height: 175px;
+    background-image: url(mkid_smile.png);
+    position: absolute;
+    top: 50%;
+    right: 38%;
+  }
+  .monster-kid:hover {
+    width: 94px;
+    height: 136px;
+    background-image: url(mk_shock.png);
+    position: absolute;
+    top: 50%;
+    right: 39%;
+  }
+  .monster-kid:active {
+    width: 44px;
+    height: 38px;
+    background-image: url(tobyfox.gif);
+    position: absolute;
+    top: 60%;
+    right: 40%;
+  }
