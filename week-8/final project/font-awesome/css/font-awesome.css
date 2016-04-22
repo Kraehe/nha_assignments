@@ -1799,3 +1799,6 @@
 .fa-medium:before {
   content: "\f23a";
 }
+.fa:hover {
+  color: #5cb85c;
+}

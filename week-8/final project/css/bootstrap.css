@@ -1187,7 +1187,7 @@ h6,
   font-family: inherit;
   font-weight: 500;
   line-height: 1.1;
-  color: inherit;
+  color: #fff;
 }
 h1 small,
 h2 small,
@@ -1215,7 +1215,7 @@ h6 .small,
 .h6 .small {
   font-weight: normal;
   line-height: 1;
-  color: #777;
+  color: #fff;
 }
 h1,
 .h1,
@@ -1381,7 +1381,7 @@ a.bg-primary:focus {
   background-color: #286090;
 }
 .bg-success {
-  background-color: #dff0d8;
+  background-color: #5cb85c;
 }
 a.bg-success:hover,
 a.bg-success:focus {
@@ -3060,25 +3060,25 @@ fieldset[disabled] a.btn {
   pointer-events: none;
 }
 .btn-default {
-  color: #333;
+  color: #5cb85c;
   background-color: #fff;
   border-color: #ccc;
 }
 .btn-default:focus,
 .btn-default.focus {
-  color: #333;
+  color: #5cb85c;
   background-color: #e6e6e6;
   border-color: #8c8c8c;
 }
 .btn-default:hover {
-  color: #333;
+  color: #5cb85c;
   background-color: #e6e6e6;
   border-color: #adadad;
 }
 .btn-default:active,
 .btn-default.active,
 .open > .dropdown-toggle.btn-default {
-  color: #333;
+  color: #5cb85c;
   background-color: #e6e6e6;
   border-color: #adadad;
 }
@@ -3091,7 +3091,7 @@ fieldset[disabled] a.btn {
 .btn-default:active.focus,
 .btn-default.active.focus,
 .open > .dropdown-toggle.btn-default.focus {
-  color: #333;
+  color: #5cb85c;
   background-color: #d4d4d4;
   border-color: #8c8c8c;
 }
@@ -3111,9 +3111,10 @@ fieldset[disabled] .btn-default:focus,
 fieldset[disabled] .btn-default.focus {
   background-color: #fff;
   border-color: #ccc;
+  color: #5cb85c;
 }
 .btn-default .badge {
-  color: #fff;
+  color: #5cb85c;
   background-color: #333;
 }
 .btn-primary {
@@ -6756,5 +6757,8 @@ button.close {
   .hidden-print {
     display: none !important;
   }
+}
+.h3-success {
+  color:#5cb85c;
 }
 /*# sourceMappingURL=bootstrap.css.map */
